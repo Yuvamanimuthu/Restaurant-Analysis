@@ -61,3 +61,13 @@ The Power BI dashboard is divided into 4 pages, each focusing on a specific dime
 
 ---
 
+##  Author
+**Yuvamanimuthu**  
+🎓 MBA Graduate | Former Operations Analyst at NatWest  
+📊 Data Analyst | Power BI | SQL | Tableau | Excel  
+
+## License
+
+This project is for learning and portfolio purposes only. Not affiliated with Zomato.
+
+
